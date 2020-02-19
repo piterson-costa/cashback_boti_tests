@@ -126,6 +126,9 @@ O método **GET** retorna o montande de cashback para o cpf 12312312323
 * executar o comando `python -m unittest testes/teste_sales.py` para realizar testes do modulo Sales
 * executar o comando `python -m unittest testes/teste_dealer.py` para realizar testes do modulo Dealers
 
-
+###### material de apoio para realizar os testes  
+[ealpython](https://ealpython.com/python-testing/) 
+[DocsPython](https://docs.python.org/3/library/unittest.html) 
+[medium](https://medium.com/@otaviobn/tdd-com-flask-e-unittest-3f66036a240b) 
  
 
